@@ -6,4 +6,7 @@
   <Folder Name="/Task0/">
     <Project Path="Tyuiu.BurovaAE.Sprint0.Task0/Tyuiu.BurovaAE.Sprint0.Task0.vcxproj" />
   </Folder>
+  <Folder Name="/Task1/">
+    <Project Path="Tyuiu.BurovaAE.Sprint0.Task1.V0/Tyuiu.BurovaAE.Sprint0.Task1.V0.vcxproj" />
+  </Folder>
 </Solution>
