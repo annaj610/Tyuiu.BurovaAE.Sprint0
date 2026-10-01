@@ -9,4 +9,9 @@
   <Folder Name="/Task1/">
     <Project Path="Tyuiu.BurovaAE.Sprint0.Task1.V0/Tyuiu.BurovaAE.Sprint0.Task1.V0.vcxproj" />
   </Folder>
+  <Folder Name="/Task2/">
+    <Project Path="Tyuiu.BurovaAE.Sprint0.Task2.V0.Lib/Tyuiu.BurovaAE.Sprint0.Task2.V0.Lib.vcxproj" />
+    <Project Path="Tyuiu.BurovaAE.Sprint0.Task2.V0.Test/Tyuiu.BurovaAE.Sprint0.Task2.V0.Test.vcxproj" />
+    <Project Path="Tyuiu.BurovaAE.Sprint0.Task2.V0/Tyuiu.BurovaAE.Sprint0.Task2.V0.vcxproj" />
+  </Folder>
 </Solution>
