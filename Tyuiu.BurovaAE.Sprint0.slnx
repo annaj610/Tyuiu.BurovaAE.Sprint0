@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Task0/">
+    <Project Path="Tyuiu.BurovaAE.Sprint0.Task0/Tyuiu.BurovaAE.Sprint0.Task0.vcxproj" />
+  </Folder>
+</Solution>
