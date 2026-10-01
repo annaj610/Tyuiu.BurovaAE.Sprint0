@@ -4,14 +4,20 @@
     <Platform Name="x86" />
   </Configurations>
   <Folder Name="/Task0/">
-    <Project Path="Tyuiu.BurovaAE.Sprint0.Task0/Tyuiu.BurovaAE.Sprint0.Task0.vcxproj" />
+    <Project Path="Tyuiu.BurovaAE.Sprint0.Task0/Tyuiu.BurovaAE.Sprint0.Task0.vcxproj" Id="8f59ff60-6a49-4bc7-ac74-c7cae87f5867" />
   </Folder>
   <Folder Name="/Task1/">
-    <Project Path="Tyuiu.BurovaAE.Sprint0.Task1.V0/Tyuiu.BurovaAE.Sprint0.Task1.V0.vcxproj" />
+    <Project Path="Tyuiu.BurovaAE.Sprint0.Task1.V0/Tyuiu.BurovaAE.Sprint0.Task1.V0.vcxproj" Id="59e9014e-cb0f-4399-9731-c5147529fda1" />
   </Folder>
   <Folder Name="/Task2/">
-    <Project Path="Tyuiu.BurovaAE.Sprint0.Task2.V0.Lib/Tyuiu.BurovaAE.Sprint0.Task2.V0.Lib.vcxproj" />
+    <Project Path="Tyuiu.BurovaAE.Sprint0.Task2.V0.Lib/Tyuiu.BurovaAE.Sprint0.Task2.V0.Lib.vcxproj" Id="341358f9-3bca-468d-8a9b-8ad4b1a8ee10" />
     <Project Path="Tyuiu.BurovaAE.Sprint0.Task2.V0.Test/Tyuiu.BurovaAE.Sprint0.Task2.V0.Test.vcxproj" />
-    <Project Path="Tyuiu.BurovaAE.Sprint0.Task2.V0/Tyuiu.BurovaAE.Sprint0.Task2.V0.vcxproj" />
+    <Project Path="Tyuiu.BurovaAE.Sprint0.Task2.V0/Tyuiu.BurovaAE.Sprint0.Task2.V0.vcxproj" Id="0ade8f6c-145e-46f9-b9a9-f79b734778a0" />
+  </Folder>
+  <Folder Name="/Task3/">
+    <File Path="../Tyuiu.Cours1.cpp/Tyuiu.Cours1.cpp.vcxproj" />
+    <Project Path="Tyuiu.BurovaAE.Sprint0.Task3.V0.Lib/Tyuiu.BurovaAE.Sprint0.Task3.V0.Lib.vcxproj" Id="e71000f0-c3b2-4753-981c-ca691f5d62d3" />
+    <Project Path="Tyuiu.BurovaAE.Sprint0.Task3.V0.Test/Tyuiu.BurovaAE.Sprint0.Task3.V0.Test.vcxproj" />
+    <Project Path="Tyuiu.BurovaAE.Sprint0.Task3.V0/Tyuiu.BurovaAE.Sprint0.Task3.V0.vcxproj" Id="9d68db1b-61d4-467d-8c70-78a53ca2c7f8" />
   </Folder>
 </Solution>
